@@ -10,23 +10,30 @@ header:
 feature_row:
   - image_path: /assets/images/SpiritLogo.png
     alt: "placeholder image 1"
-    title: "Spirit"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting. <br><br>
+    title: "Spirit, A World Beneath"
+    excerpt: "(2023) <br><br>
     [See more!](https://Www.google.com){: .btn .btn--info .align-center}"
   - image_path: /assets/images/FaunaWarsLogo.png
     alt: "placeholder image 2"
     title: "Fauna Wars"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting. <br><br>
+    excerpt: "(2020) <br><br>
     [See more!](https://Www.google.com){: .btn .btn--info .align-center}"
-  - image_path: /assets/images/SpiritLogo.png
+  - image_path: /assets/images/SS.png
     alt: "placeholder image 3"
     title: "Solar System Simulator"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting. <br><br>
+    excerpt: "(2022). <br><br>
     [See more!](https://Www.google.com){: .btn .btn--info .align-center}"
-  - image_path: /assets/images/SpiritLogo.png
+  - image_path: /assets/images/TakeYourTime.png
     alt: "placeholder image 3"
-    title: "Solar System Simulator"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting. <br><br>
+    title: "Take Your Time"
+    excerpt: "First game I developed (2020)!  <br>
+    Using Lua and Love2D framework.<br><br>
+    [See more!](https://Www.google.com){: .btn .btn--info .align-center}"
+  - image_path: /assets/images/ApesRevengeLogo.png
+    alt: "placeholder image 3"
+    title: "Apes Revenge"
+    excerpt: "Second game I developed (2020)!  <br>
+    Using Lua and Love2D framework.<br><br>
     [See more!](https://Www.google.com){: .btn .btn--info .align-center}"
 ---
 
