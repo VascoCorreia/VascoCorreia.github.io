@@ -92,6 +92,8 @@
 
   img {
     width: 100%;
+    height: 200px;
+    object-fit: scale-down;
   }
 }
 
@@ -410,6 +412,7 @@
       .archive__item-teaser {
         margin: 0 auto;
         width: span(5 of 12);
+
       }
 
       .archive__item-body {
