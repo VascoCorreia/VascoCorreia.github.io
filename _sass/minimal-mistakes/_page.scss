@@ -113,7 +113,7 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: $type-size-6;
   }
 
   /* paragraph indents */
@@ -207,7 +207,7 @@ body {
       padding-right: 1em;
 
       @include breakpoint($x-large) {
-        max-width: $x-large;
+        max-width: $xx-large;
       }
     }
 

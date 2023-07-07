@@ -3,9 +3,9 @@
     "",
     "\\assets",
     "\\assets\\images",
-    "\\_data",
-    "\\_pages"
+    "\\_pages",
+    "\\_pages\\projects"
   ],
-  "SelectedNode": "\\assets\\images\\FaunaWarsLogo.png",
+  "SelectedNode": "\\_pages\\projects\\solar-system.md",
   "PreviewInSolutionExplorer": false
 }
