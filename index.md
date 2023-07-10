@@ -14,19 +14,19 @@ feature_row2:
     imageWidth: 300px
     title: "Check my projects in here!"
     excerpt: "The projects I have developed ready for you!<br><br>  
-    [See more!](localhost:4000/projects/projects){: .btn .btn--primary .align-center}"
+    [See more!](https://vascocorreia.github.io/projects){: .btn .btn--primary .align-center}"
   - image_path: /assets/images/Test2.gif
     alt: "About Me"
     imageWidth: 300px
     title: "Get to know me!"
     excerpt: "Curious to know more about me?<br><br>  
-    [See more!](https://vascocorreia.github.io/projects/solar-system){: .btn .btn--primary .align-center}"
+    [See more!](https://vascocorreia.github.io/projects/about){: .btn .btn--primary .align-center}"
   - image_path: /assets/images/Test4.gif
     alt: "Contact me"
     imageWidth: 300px
     title: "Like what you see? Contact me!"
     excerpt: "s<br><br>  
-    [See more!](https://vascocorreia.github.io/projects/solar-system){: .btn .btn--primary .align-center}"
+    [See more!](https://vascocorreia.github.io/projects/contact){: .btn .btn--primary .align-center}"
 ---
    
 ##### Hello and welcome! My name is Vasco Correia and I am a Portuguese Game programmer and aspiring software developer!

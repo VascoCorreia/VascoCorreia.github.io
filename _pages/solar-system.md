@@ -1,7 +1,7 @@
 ---
 title: "Solar System simulator"
 layout: single
-permalink: /projects/solar-system
+permalink: /solar-system/
 author_profile: false
 toc: true
 header:

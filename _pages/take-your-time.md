@@ -1,7 +1,7 @@
 ---
 title: "Take Your Time"
 layout: single
-permalink: /projects/take-your-time
+permalink: /take-your-time/
 author_profile: false
 toc: true
 header:

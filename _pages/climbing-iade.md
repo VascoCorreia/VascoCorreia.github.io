@@ -1,7 +1,7 @@
 ---
 title: "Climbing IADE"
 layout: single
-permalink: /projects/climbing-iade
+permalink: /climbing-iade/
 author_profile: true
 toc: true
 header:

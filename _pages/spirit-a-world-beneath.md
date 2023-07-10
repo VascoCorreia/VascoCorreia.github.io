@@ -1,7 +1,7 @@
 ---
 title: "Spirit, A World Beneath"
 layout: single
-permalink: /projects/spirit
+permalink: /spirit-a-world-beneath/
 author_profile: false
 toc: true
 header:
