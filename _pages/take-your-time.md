@@ -9,7 +9,7 @@ header:
   overlay_filter: rgba(0, 0, 0, 0)
   image_description: "Take Your Time Banner"
 ---
-<a href="http://www.google.com"> <i class="fab fa-brands fa-github fa-2x"></i></a>
+<a href="https://github.com/VascoCorreia/Take-Your-Time"> <i class="fab fa-brands fa-github fa-2x"></i></a>
 {: .text-right}
 {% include video id="1Q-Dwt5qL_e1zktUSSzafW7FXkCR9rf91" provider="google-drive" %}  
 (You can increase the video quality)  

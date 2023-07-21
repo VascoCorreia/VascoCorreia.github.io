@@ -9,7 +9,7 @@ header:
   overlay_filter: rgba(0, 0, 100, 0.1)
   image_description: "James Webb Telescope deep field."
 ---
-<a href="http://www.google.com"> <i class="fab fa-brands fa-github fa-2x"></i></a>
+<a href="https://github.com/VascoCorreia/Solar-System-Simulator-No-Application"> <i class="fab fa-brands fa-github fa-2x"></i></a>
 {: .text-right}
 {% include video id="1vbS_uvebSwWS90nSidgK0yrv_36H_FXq" provider="google-drive" %}  
 (You can increase the video quality)  

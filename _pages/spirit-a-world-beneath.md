@@ -9,7 +9,7 @@ header:
   overlay_filter: rgba(0, 0, 100, 0.1)
   image_description: "James Webb Telescope deep field."
 ---
-<a href="http://www.google.com"> <i class="fab fa-brands fa-github fa-2x"></i></a>
+<a href="https://github.com/VascoCorreia/Spirit-A-World-Beneath"> <i class="fab fa-brands fa-github fa-2x"></i></a>
 {: .text-right}
 {% include video id="1hr_v41a_SVjEYDWhFd6z2Gh-yxX1XIUJ" provider="google-drive" %}  
 (You can increase the video quality)  

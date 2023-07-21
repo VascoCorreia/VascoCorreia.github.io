@@ -8,7 +8,7 @@ toc: true
 
 Meet me, a Portuguese professional game developer and programmer. With a strong passion for technology, cosmology, and astronomy, my curiosity is piqued by the recent advancements in machine learning and artificial intelligence, and the potential impact they will have on the world.
 
-The vastness and enigmatic nature of the cosmos never fail to amaze me. With each passing year, I finds himself more intrigued by the mysteries of the universe and the continuous (almost inherent) efforts of humanity to unravel its secrets.
+The vastness and enigmatic nature of the cosmos never fail to amaze me. With each passing year, I find myself more intrigued by the mysteries of the universe and the continuous (almost inherent) efforts of humanity to unravel its secrets.
 
 If you'd like to say hello or engage in a conversation, feel free to reach out to me all my deatils are in my *[Contact Page](https://www.vascocorreia.github.io/contact/)*.
 
