@@ -30,6 +30,3 @@ Done for a 3 day game jam.
 | :--------: | :--------: |
 | Windows | [Download](https://drive.google.com/uc?export=download&id=1TMMoTTADcNaKFX6YhTk7mMv2lLA2ry_u){: .btn .btn--primary}   |
 | MacOs  | [Download](https://drive.google.com/uc?export=download&id=1x8Xj9vCgC0vJ8hooV_ReoqcK6oU9yt0V){: .btn .btn--primary}   |
-
-<a href="http://www.google.com" class="fab fa-fw fa-github fa-5x"></a>
-{: .notice--primary .text-center}

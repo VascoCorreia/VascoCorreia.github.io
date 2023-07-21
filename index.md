@@ -20,7 +20,7 @@ feature_row2:
     imageWidth: 300px
     title: "Get to know me!"
     excerpt: "Curious to know more about me?<br><br>  
-    [See more!](https://vascocorreia.github.io/about){: .btn .btn--primary .align-center}"
+    [See more!](https://vascocorreia.github.io/about-me){: .btn .btn--primary .align-center}"
   - image_path: /assets/images/Test4.gif
     alt: "Contact me"
     imageWidth: 300px
