@@ -75,6 +75,7 @@
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
+  text-align: center;
 
   & + p {
     text-indent: 0;
@@ -246,7 +247,7 @@
   border-bottom: 1px solid $border-color;
 
   .archive__item-title {
-    margin-bottom: 0;
+    text-align: center;
   }
 }
 

@@ -14,10 +14,11 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: Mukta, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$sans-serif: Tektur, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 $header-font: Barlow, sans-serif !default;
+$header-font2: 'Tektur', cursive !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
@@ -31,7 +32,7 @@ $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
 $global-font-family: $sans-serif !default;
-$header-font-family: $header-font !default;
+$header-font-family: $header-font2 !default;
 $caption-font-family: $serif !default;
 
 /* type scale */

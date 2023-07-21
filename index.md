@@ -20,16 +20,18 @@ feature_row2:
     imageWidth: 300px
     title: "Get to know me!"
     excerpt: "Curious to know more about me?<br><br>  
-    [See more!](https://vascocorreia.github.io/projects/about){: .btn .btn--primary .align-center}"
+    [See more!](https://vascocorreia.github.io/about){: .btn .btn--primary .align-center}"
   - image_path: /assets/images/Test4.gif
     alt: "Contact me"
     imageWidth: 300px
     title: "Like what you see? Contact me!"
-    excerpt: "s<br><br>  
-    [See more!](https://vascocorreia.github.io/projects/contact){: .btn .btn--primary .align-center}"
+    excerpt: "Send me a message!<br><br>  
+    [See more!](https://vascocorreia.github.io/contact){: .btn .btn--primary .align-center}"
 ---
    
-##### Hello and welcome! My name is Vasco Correia and I am a Portuguese Game programmer and aspiring software developer!
+##### Hello and welcome!  
+{: .text-center}  
+My name is Vasco Correia and I am a Portuguese Game programmer and aspiring software developer!
 {: .text-center}
 <hr>
 {% include feature_row id="feature_row2" %}

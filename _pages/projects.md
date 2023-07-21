@@ -13,7 +13,7 @@ feature_row:
     imageWidth: 400px
     imageHeight: 200px
     title: "Spirit, A World Beneath"
-    excerpt: "3D local multiplayer puzzle adventure.
+    excerpt: "3D local multiplayer puzzle adventure.<br>
     Developed in Unity. <br><br>
     [See more!](https://vascocorreia.github.io/spirit-a-world-beneath){: .btn .btn--primary .align-center}"
   - image_path: /assets/images/SS.png
@@ -21,14 +21,14 @@ feature_row:
     imageWidth: 400px
     imageHeight: 200px
     title: "Solar System Simulator"
-    excerpt: "Simulation using realistic Newtonian gravity laws. Developed in Unity<br><br>
+    excerpt: "Simulation using realistic Newtonian gravity laws.<br> Developed in Unity<br><br>
     [See more!](https://vascocorreia.github.io/solar-system){: .btn .btn--primary .align-center}"
   - image_path: /assets/images/FaunaWarsLogo.png
     alt: "Fauna Wars Logo"
     imageWidth: 400px
     imageHeight: 200px
     title: "Fauna Wars"
-    excerpt: "Web Browser strategy game. Developed using HTML, Javascript, CSS and Nodejs.<br><br>
+    excerpt: "Web Browser strategy game.<br> Developed using HTML, JS, CSS and Nodejs.<br><br>
     [See more!](https://vascocorreia.github.io/fauna-wars){: .btn .btn--primary .align-center}"
   - image_path: /assets/images/PortfolioPhoto.png
     alt: "Climbing Iade sample image"

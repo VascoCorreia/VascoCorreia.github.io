@@ -2,14 +2,20 @@
 title: "Spirit, A World Beneath"
 layout: single
 permalink: /spirit-a-world-beneath/
-author_profile: false
+author_profile: true
 toc: true
 header:
   overlay_image: /assets/images/SpiritBanner2.png
   overlay_filter: rgba(0, 0, 100, 0.1)
   image_description: "James Webb Telescope deep field."
 ---
-### Overview
+<a href="http://www.google.com"> <i class="fab fa-brands fa-github fa-2x"></i></a>
+{: .text-right}
+{% include video id="1hr_v41a_SVjEYDWhFd6z2Gh-yxX1XIUJ" provider="google-drive" %}  
+(You can increase the video quality)  
+{: .text-center .style="font-size= 5px;"}
+<hr>
+### <i class="fa fa-solid fa-ghost" style="color: #ae0c4e;"></i> Overview
 Spirit, A World Beneath is a 3D third-person game designed for local multiplayer split-screen gameplay, where you and your friend can team up to tackle the challenges together.  
 
 Play as Rory and as a mysterious spirit and uncover the secrets of the ancient Scottish underground tunnels.
@@ -25,40 +31,17 @@ Get ready for a thrilling adventure that will put your puzzle solving skills and
 **Important:** Two Ps4 controllers are required to play! Intended to change.
 {: .notice--danger .text-center}  
 <hr>
-### Trailer  
-{% include video id="1hr_v41a_SVjEYDWhFd6z2Gh-yxX1XIUJ" provider="google-drive" %}  
-(You can increase the video quality)  
-{: .text-center .style="font-size= 5px;"}
-<hr>
-### Controls  
-##### Rory  
 
-|  Action  	| Control                 	|
-|:--------:	|-------------------------	|
-| Movement 	| Joystick 1 left analog  	|
-| Camera   	| Joystick 1 right analog 	|
-| Jump     	| Joystick 1 X            	|
-| Interact 	| Joystick 1 Square       	|
-| Whistle  	| Joystick 1 R1           	|
+### <i class="fa fa-solid fa-download" style="color: #ae0c4e;"></i> Download Builds  
 
-##### Spirit  
+| Build | Download |
+| :--------: | :--------: |
+| Windows | [MISSING FILE](){: .btn .btn--primary}   |
+| MacOs  | [MISSING FILE](){: .btn .btn--primary}   |
 
-|       Action      	| Control                 	|
-|:-----------------:	|-------------------------	|
-| Movement          	| Joystick 2 left analog  	|
-| Camera            	| Joystick 2 right analog 	|
-| Jump              	| Joystick 2 X            	|
-| Interact          	| Joystick 2 Square       	|
-| Possess/Unpossess 	| Joystick 2 R1           	|  
+### <i class="fa fa-solid fa-book" style="color: #ae0c4e;"></i> Documentation 
 
-<hr>
-
-### Download Builds  
-<br>
-Windows: [Download](https://drive.google.com/uc?export=download&id=1qS1jXzYUGeWKUKw24gKRrmEz78PUUwBe){: .btn .btn--primary .text-right}  
-MacOs: [Download](https://drive.google.com/uc?export=download&id=1x8Xj9vCgC0vJ8hooV_ReoqcK6oU9yt0V){: .btn .btn--primary .text-right}
-
-### Documentation
-
-[Game Design Document](https://drive.google.com/file/d/1wmc88soNyg0D2Mzbw1NCY5drLffhZJh1/view?usp=sharing){: .btn .btn--primary .text-right}  
-[Spec Sheet](https://drive.google.com/file/d/1UGSFAZr6QGnFzS--s0V5b6pZ76flO1oK/view?usp=sharing){: .btn .btn--primary .text-right}  
+| Document | Download |
+| :--------: | :--------: |
+| Game Design Document   | [View](https://drive.google.com/file/d/1wmc88soNyg0D2Mzbw1NCY5drLffhZJh1/view?usp=sharing){: .btn .btn--primary}   |
+| Spec Sheet   | [View](https://drive.google.com/file/d/1UGSFAZr6QGnFzS--s0V5b6pZ76flO1oK/view?usp=sharing){: .btn .btn--primary}   |
