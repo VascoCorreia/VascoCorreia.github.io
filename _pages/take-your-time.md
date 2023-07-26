@@ -5,15 +5,22 @@ permalink: /take-your-time/
 author_profile: true
 toc: true
 header:
+  video:
+    id: VicMFkAtWyY
+    provider: youtube
+---
+{% comment %} 
+header:
   overlay_image: /assets/images/TakeYourTimeBanner.png
   overlay_filter: rgba(0, 0, 0, 0)
   image_description: "Take Your Time Banner"
----
-<a href="https://github.com/VascoCorreia/Take-Your-Time"> <i class="fab fa-brands fa-github fa-2x"></i></a>
-{: .text-right}
 {% include video id="1Q-Dwt5qL_e1zktUSSzafW7FXkCR9rf91" provider="google-drive" %}  
 (You can increase the video quality)  
 {: .text-center .style="font-size= 5px;"}
+{% endcomment %}
+
+<a href="https://github.com/VascoCorreia/Take-Your-Time" target="_blank"> <i class="fab fa-brands fa-github fa-2x"></i></a>
+{: .text-right}
 <hr>
 ### <i class="fa fa-solid fa-clock" style="color: #ae0c4e;"></i> Overview
 Take Your Time was the first game I ever developed! It is a 2D shooter scroller where you play as Yawn.
@@ -27,8 +34,47 @@ In this nightmare his enemies take form as evil clocks and pillow, you must help
 
 Developed using Love2d framework that utilizes Lua as its scripting language.
 {: .notice--primary .text-center}  
-
 <hr>
+### <i class="fa fa-solid fa-gamepad" style="color: #ae0c4e;"></i> Controls  
+
+<ul class="accordion">
+    <li>
+        <input type="checkbox" name="accordion" id="first">
+        <label for="first">Expand</label>
+        <div class="content">
+            <table>
+              <thead>
+                <tr>
+                    <th style="text-align: center">Action</th>
+                    <th style="text-align: center">Key</th>
+                </tr>
+              </thead>
+              <tbody>
+                  <tr>
+                    <td style="text-align: center">A</td>
+                    <td style="text-align: center">FMove Left</td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center">D</td>
+                    <td style="text-align: center">Move right</td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center">W</td>
+                    <td style="text-align: center">Jump</td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center">Right Arrow</td>
+                    <td style="text-align: center">Shoot right</td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center">Up Arrow</td>
+                    <td style="text-align: center">Shoot up</td>
+                  </tr>
+               </tbody>
+            </table>
+        </div>
+    </li>
+</ul>
 ### <i class="fa fa-solid fa-download" style="color: #ae0c4e;"></i> Download Builds  
 
 | Build | Download |

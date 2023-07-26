@@ -9,7 +9,7 @@ header:
   overlay_filter: rgba(0, 0, 100, 0.1)
   image_description: "Fauna Wars Banner."
 ---
-<a href="https://github.com/VascoCorreia/Fauna-Wars"> <i class="fab fa-brands fa-github fa-2x"></i></a>
+<a href="https://github.com/VascoCorreia/Fauna-Wars" target="_blank"> <i class="fab fa-brands fa-github fa-2x"></i></a>
 {: .text-right}
 
 ## <i class="fa fa-solid fa-book" style="color: #ae0c4e;"></i> Instructions 
@@ -78,7 +78,7 @@ The formula used is:
 -If Ratio = 1, then Defender Wins  
 
 #### Troops Lost
-To know the number of troops the attacker and defender loose in a battle the ratio between the Total Attack points of the attacker and Total Defense Points of the Defender is used. When the ratio is between 0 and 1, the attacker loses all troops since he lost battle and we use this to know of many troops the defender loses.
+To know the number of troops the attacker and defender loose in a battle the ratio between the Total Attack points of the attacker and Total Defense Points of the Defender is used. When the ratio is between 0 and 1 (normalized value), the attacker loses all troops since he lost battle and we use this to know of many troops the defender loses.
 
 #### Conquering
 When the attacker wins a battle, he conquers the enemy city he attacked. This city belongs now to the attacker and he can do what he wants with it. The resources that were present in the city the moment it was conquered also now belong to the attacker. The buildings stay at the level they were. The only thing that changes is the faction and owner.
@@ -108,3 +108,4 @@ In this section the player can see the leaderboards.
 | Document | View |
 | :--------: | :--------: |
 | Game Design Document   | [View](https://drive.google.com/file/d/1TWrBPBrXl8kVQZKH6y9IPBuwREMJA5UG/view?usp=sharing){: .btn .btn--primary}   |
+

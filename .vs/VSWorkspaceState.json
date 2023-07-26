@@ -3,8 +3,12 @@
     "",
     "\\assets",
     "\\assets\\images",
-    "\\_pages"
+    "\\assets\\images\\FaunaWars",
+    "\\_layouts",
+    "\\_pages",
+    "\\_sass",
+    "\\_sass\\minimal-mistakes"
   ],
-  "SelectedNode": "\\_pages\\climbing-iade.md",
+  "SelectedNode": "\\assets\\images\\FotoPerfil.jpg",
   "PreviewInSolutionExplorer": false
 }

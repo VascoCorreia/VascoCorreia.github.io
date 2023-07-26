@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Vasco Correia"
-  avatar : "/assets/images/FotoPerfil.jpg"
+  avatar : "/assets/images/vasco.jpg"
   bio    : "Game programmer, with a degree in Games and Apps Development.  I have a big interest in Technology, Physics and astronomy!"
   links:
     - label: "GitHub"

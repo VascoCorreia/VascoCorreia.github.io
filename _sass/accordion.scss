@@ -1,0 +1,46 @@
+.accordion {
+    padding-inline-start: 0px;
+    width: 100%;
+}
+
+.accordion li {
+    list-style: none;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.15);
+}
+
+.accordion li label:hover {
+    background: #ac0e69;
+}
+
+.accordion li label {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin: 0;
+    background: #b60e4e;
+    cursor: pointer;
+}
+
+label::before {
+    content: "+";
+    margin-right: 10px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+input[type="checkbox"] {
+    display: none;
+}
+
+.accordion .content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s, padding 0.5s;
+}
+
+.accordion input[type="checkbox"]:checked + label + .content {
+    max-height: 800px;
+}

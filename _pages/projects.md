@@ -3,14 +3,11 @@ title: "Projects"
 excerpt: "From Concept to Creation"
 layout: splash
 permalink: /projects/
-header:
-  overlay_image: /assets/images/Test8.gif
-  overlay_filter: rgba(0, 0, 100, 0)
-  image_description: "James Webb Telescope deep field."
 feature_row:
   - image_path: /assets/images/SpiritLogo.png
     alt: "Spirit Logo"
     imageWidth: 400px
+    link: https://www.google.com
     imageHeight: 200px
     title: "Spirit, A World Beneath"
     excerpt: "3D local multiplayer puzzle adventure.<br>
@@ -18,6 +15,7 @@ feature_row:
     [See more!](https://vascocorreia.github.io/spirit-a-world-beneath){: .btn .btn--primary .align-center}"
   - image_path: /assets/images/SS.png
     alt: "Solar System sample image"
+    link: https://www.youtube.com
     imageWidth: 400px
     imageHeight: 200px
     title: "Solar System Simulator"
@@ -47,5 +45,7 @@ feature_row:
     Developed in Lua and Love2D framework. <br><br>
     [See more!](https://vascocorreia.github.io/take-your-time){: .btn .btn--primary .align-center}"
 ---
-
+<br>
+# Projects  
+<hr>
 {% include feature_row %}
