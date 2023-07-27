@@ -6,9 +6,8 @@ author_profile: true
 toc: true
 header:
   video:
-    id: 3WnC4eRY0bg
+    id: 3WnC4eRY0bg?vq=hd1080
     provider: youtube
-markdown: extra
 ---
 {% comment %} 
 header:
@@ -53,8 +52,8 @@ Everything is scaled except the planet diameters.
               </thead>
               <tbody>
                   <tr>
-                    <td style="text-align: center">WASD</td>
                     <td style="text-align: center">Fast camera movement</td>
+                    <td style="text-align: center">WASD</td>
                   </tr>
                   <tr>
                     <td style="text-align: center">Precise movement</td>

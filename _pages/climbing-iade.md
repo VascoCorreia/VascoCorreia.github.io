@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 header:
   video:
-    id: 9XlV2NtUYXk
+    id: 9XlV2NtUYXk?vq=hd1080
     provider: youtube
 ---
 {% comment %}
@@ -48,7 +48,7 @@ Done for a 3 day game jam.
               <tbody>
                   <tr>
                     <td style="text-align: center">A</td>
-                    <td style="text-align: center">FMove Left</td>
+                    <td style="text-align: center">Move Left</td>
                   </tr>
                   <tr>
                     <td style="text-align: center">D</td>
@@ -56,15 +56,11 @@ Done for a 3 day game jam.
                   </tr>
                   <tr>
                     <td style="text-align: center">W</td>
-                    <td style="text-align: center">Jump</td>
+                    <td style="text-align: center">Move Up</td>
                   </tr>
                   <tr>
-                    <td style="text-align: center">Right Arrow</td>
-                    <td style="text-align: center">Shoot right</td>
-                  </tr>
-                  <tr>
-                    <td style="text-align: center">Up Arrow</td>
-                    <td style="text-align: center">Shoot up</td>
+                    <td style="text-align: center">S</td>
+                    <td style="text-align: center">Move Down</td>
                   </tr>
                </tbody>
             </table>

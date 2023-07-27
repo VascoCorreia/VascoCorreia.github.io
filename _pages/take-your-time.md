@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 header:
   video:
-    id: VicMFkAtWyY
+    id: VicMFkAtWyY?vq=hd720
     provider: youtube
 ---
 {% comment %} 
@@ -52,7 +52,7 @@ Developed using Love2d framework that utilizes Lua as its scripting language.
               <tbody>
                   <tr>
                     <td style="text-align: center">A</td>
-                    <td style="text-align: center">FMove Left</td>
+                    <td style="text-align: center">Move Left</td>
                   </tr>
                   <tr>
                     <td style="text-align: center">D</td>

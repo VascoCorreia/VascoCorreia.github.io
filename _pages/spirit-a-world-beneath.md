@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 header:
   video:
-    id: xhcFo2AvP_U
+    id: xhcFo2AvP_U?vq=hd1080
     provider: youtube
 ---
 {% comment %} 
@@ -52,26 +52,58 @@ Get ready for a thrilling adventure that will put your puzzle solving skills and
                     <th style="text-align: center">Key</th>
                 </tr>
               </thead>
+              <h2>Rory</h2>
               <tbody>
                   <tr>
-                    <td style="text-align: center">A</td>
-                    <td style="text-align: center">FMove Left</td>
+                    <td style="text-align: center">Gamepad 1 Left Analog</td>
+                    <td style="text-align: center">Movement</td>
                   </tr>
                   <tr>
-                    <td style="text-align: center">D</td>
-                    <td style="text-align: center">Move right</td>
+                    <td style="text-align: center">Gamepad 1 Right Analog</td>
+                    <td style="text-align: center">Move camera</td>
                   </tr>
                   <tr>
-                    <td style="text-align: center">W</td>
+                    <td style="text-align: center">Gamepad 1 X</td>
                     <td style="text-align: center">Jump</td>
                   </tr>
                   <tr>
-                    <td style="text-align: center">Right Arrow</td>
-                    <td style="text-align: center">Shoot right</td>
+                    <td style="text-align: center">Gamepad 1 Square</td>
+                    <td style="text-align: center">Interact</td>
                   </tr>
                   <tr>
-                    <td style="text-align: center">Up Arrow</td>
-                    <td style="text-align: center">Shoot up</td>
+                    <td style="text-align: center">Gamepad 1 R1</td>
+                    <td style="text-align: center">Whistle</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table>
+              <thead>
+                <tr>
+                    <th style="text-align: center">Action</th>
+                    <th style="text-align: center">Key</th>
+                </tr>
+              </thead>
+              <h2>Spirit</h2>
+              <tbody>
+                  <tr>
+                    <td style="text-align: center">Gamepad 2 Left Analog</td>
+                    <td style="text-align: center">Movement</td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center">Gamepad 2 Right Analog</td>
+                    <td style="text-align: center">Move camera</td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center">Gamepad 2 X</td>
+                    <td style="text-align: center">Jump</td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center">Gamepad 2 Square</td>
+                    <td style="text-align: center">Interact</td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center">Gamepad 2 R1</td>
+                    <td style="text-align: center">Possession</td>
                   </tr>
                </tbody>
             </table>
