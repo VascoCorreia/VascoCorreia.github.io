@@ -1,0 +1,42 @@
+.collapsible {
+    padding-inline-start: 0px;
+    width: 100%;
+}
+
+.collapsible li {
+    list-style: none;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.15);
+}
+
+.collapsible li label:hover {
+    background: #ac0e69;
+}
+
+.collapsible li label {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin: 0;
+    background: #b60e4e;
+    cursor: pointer;
+}
+
+collapsible label::before {
+    content: "+";
+    margin-right: 10px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.collapsible .content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s, padding 0.5s;
+}
+
+.collapsible input[type="checkbox"]:checked + label + .content {
+    max-height: 5000px;
+}

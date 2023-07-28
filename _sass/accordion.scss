@@ -42,5 +42,5 @@ input[type="checkbox"] {
 }
 
 .accordion input[type="checkbox"]:checked + label + .content {
-    max-height: 800px;
+    max-height: fit-content;
 }

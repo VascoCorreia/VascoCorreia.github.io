@@ -133,6 +133,38 @@ The vastness and enigmatic nature of the cosmos never fail to amaze me. With eac
              </div>
         </div>
     </li>
+    <li>
+        <input type="checkbox" name="accordion" id="fourth">
+        <label for="fourth">Languages</label>
+        <div class="content">
+            <div class="skill-bars">
+                <div class="bar">
+                    <div class="info">
+                        <span>Portuguese</span>
+                    </div>
+                    <div class="progress-line pt">
+                        <span></span>
+                    </div>
+                </div>
+                 <div class="bar">
+                    <div class="info">
+                        <span>English</span>
+                    </div>
+                    <div class="progress-line en">
+                        <span></span>
+                    </div>
+                </div>
+                <div class="bar">
+                    <div class="info">
+                        <span>Spanish</span>
+                    </div>
+                    <div class="progress-line es">
+                        <span></span>
+                    </div>
+                </div>
+             </div>
+        </div>
+    </li>
 </ul>
 
 ## <i class="fas fa-solid fa-school fa-beat-fade" style="color: #b60e4e;"></i> Education
@@ -261,6 +293,16 @@ In this new field of study, I found the perfect blend of my logical thinking abi
 .bar .progress-line.agile span{
   width: 70%;
 }
+.bar .progress-line.pt span{
+  width: 100%;
+}
+.bar .progress-line.en span{
+  width: 90%;
+}
+.bar .progress-line.es span{
+  width: 40%;
+}
+
 .progress-line span::before{
   position: absolute;
   content: "";
@@ -328,6 +370,15 @@ In this new field of study, I found the perfect blend of my logical thinking abi
 }
 .progress-line.agile span::after{
   content: "70%";
+}
+.progress-line.pt span::after{
+  content: "100%";
+}
+.progress-line.en span::after{
+  content: "90%";
+}
+.progress-line.es span::after{
+  content: "40%";
 }
 </style>
 
