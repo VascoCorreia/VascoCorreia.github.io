@@ -2,13 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\images",
-    "\\assets\\images\\FaunaWars",
+    "\\assets\\css",
     "\\_layouts",
     "\\_pages",
-    "\\_sass",
     "\\_sass\\minimal-mistakes"
   ],
-  "SelectedNode": "\\assets\\images\\FotoPerfil.jpg",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
