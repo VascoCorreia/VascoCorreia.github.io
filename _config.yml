@@ -17,7 +17,8 @@ title: Vasco Correia
 subtitle: Passionate Learner
 email: vasco.h.correia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Find all my projects in just one place! 
+  Find all my projects in just one place!
+url: https://VascoCorreia.github.io
 github_username: VascoCorreia
 minimal_mistakes_skin: neon # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
