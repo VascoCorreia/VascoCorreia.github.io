@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\assets\\css",
-    "\\_layouts",
-    "\\_pages",
+    "\\_sass",
     "\\_sass\\minimal-mistakes"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\Gemfile",
   "PreviewInSolutionExplorer": false
 }
